@@ -1,0 +1,9 @@
+# Arquivos do sistema operacional (Windows/Mac)
+Thumbs.db
+.DS_Store
+
+# Pastas de configuracao de editores de codigo (ex: VS Code)
+.vscode/
+
+# Se um dia você usar Node.js nesse curso, isso bloqueia a pasta mais pesada de todas:
+node_modules/
